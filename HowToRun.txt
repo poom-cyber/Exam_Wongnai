@@ -1,0 +1,20 @@
+Step how to run
+1. เปิด Server json
+    1.1 เปิด Terminal ใหม่ใน Directory root ของไฟล์
+    1.2 เข้าสู๋ Directory Server json 
+        ผ่านคำสั่ง : cd json-server
+    1.3 รันคำสั่งเปิด Server 
+        ผ่านคำสั่ง : npm start
+2. เปิด Server API gateway
+    2.1 เปิด Terminal ใหม่ใน Directory root ของไฟล์
+    2.2 เข้าสู๋ Directory api gateway 
+        ผ่านคำสั่ง : cd api-gateway
+    2.3 เปิด Server API gateway
+        ผ่านคำสั่ง : npm run dev
+3. เปิด React 
+    3.1 เปิด Terminal ใหม่ใน Directory root ของไฟล์
+    3.2 เข้าสู๋ Directory React
+        ผ่านคำสั่ง : cd web
+    3.3 เปิด React 
+        ผ่านคำสั่ง : npm start
+
